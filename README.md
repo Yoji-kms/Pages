@@ -1,7 +1,6 @@
 
 # **Машнин Егор Алексеевич**
-![](https://disk.yandex.ru/i/efgiI_pVjZWQTQ)
-
+![Фото](https://user-images.githubusercontent.com/63704200/224194975-4929c8d9-e172-408b-86af-c8c310dbdbcb.png)<br />
 **Junior Android-разработчик**<br />
 Локация:  **Санкт-Петербург**<br />
 Контакты: +7(914) 684-61-00 (Telegram),<br />
