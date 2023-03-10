@@ -1,6 +1,6 @@
 
 # **Машнин Егор Алексеевич**
-![](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FФото.png)
+![](https://disk.yandex.ru/i/efgiI_pVjZWQTQ)
 
 **Junior Android-разработчик**<br />
 Локация:  **Санкт-Петербург**<br />
